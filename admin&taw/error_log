@@ -1,0 +1,321 @@
+[12-Sep-2017 07:23:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:23:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:23:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:23:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:23:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:23:38 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:23:59 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:23:59 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:23:59 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:23:59 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:23:59 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:23:59 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:35:16 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:35:16 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:35:16 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:35:16 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:35:16 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:35:16 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:35:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:35:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:35:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:35:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:35:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:35:34 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:36:26 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:36:26 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:36:26 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:36:26 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:36:26 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:36:26 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:36:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:36:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:36:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:36:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:36:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:36:52 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:37:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:37:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:37:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:37:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:37:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:37:15 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:42:48 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:42:48 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:42:48 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:42:48 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:42:48 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:42:48 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:42:53 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:42:53 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:42:53 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:42:53 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:42:53 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:42:53 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:42:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:42:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:42:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:42:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:42:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:42:54 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:45:43 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:45:43 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:45:43 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:45:43 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:45:43 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:45:43 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:46:33 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:46:33 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:46:33 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:46:33 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:46:33 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:46:33 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:49:01 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:49:01 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:49:01 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:49:01 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:49:01 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:49:01 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:53:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:53:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:53:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:53:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:53:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:53:17 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 07:58:55 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 07:58:55 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 07:58:55 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 07:58:55 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 07:58:55 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 07:58:55 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 08:09:36 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 08:09:36 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 08:09:36 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 08:09:36 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 08:09:36 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 08:09:36 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 08:09:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 08:09:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 08:09:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 08:09:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 08:09:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 08:09:40 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 08:28:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 21
+[12-Sep-2017 08:28:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 230
+[12-Sep-2017 08:28:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 809
+[12-Sep-2017 08:28:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 397
+[12-Sep-2017 08:28:40 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewshared10.php on line 820
+[12-Sep-2017 08:28:40 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw_/ewmysql10.php on line 508
+[12-Sep-2017 08:29:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 08:29:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 08:29:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 08:29:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 08:29:54 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 08:29:54 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 508
+[12-Sep-2017 09:27:08 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:27:08 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:27:08 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:27:08 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:27:08 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:27:08 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 508
+[12-Sep-2017 09:31:22 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:31:22 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:31:22 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:31:22 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:31:22 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:31:22 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 508
+[12-Sep-2017 09:38:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:38:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:38:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:38:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:38:34 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:38:34 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 508
+[12-Sep-2017 09:38:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:38:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:38:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:38:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:38:38 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:38:38 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php:508
+Stack trace:
+#0 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(174): mysqlt_driver_ADOConnection->Close()
+#1 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(206): cdefault->Page_Terminate('login.php')
+#2 /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/index.php(250): cdefault->Page_Main()
+#3 {main}
+  thrown in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 508
+[12-Sep-2017 09:42:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:42:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:42:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:42:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:42:17 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:42:18 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:42:18 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:42:18 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:42:18 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:42:18 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:44:52 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:46:27 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:46:27 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:46:27 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:46:27 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:46:27 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:52:11 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:52:11 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:52:11 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:52:11 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:52:11 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:52:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:52:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:52:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:52:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:52:15 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820
+[12-Sep-2017 09:52:20 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 21
+[12-Sep-2017 09:52:20 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ADOConnection has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 230
+[12-Sep-2017 09:52:20 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; mysqlt_driver_ResultSet has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewmysql10.php on line 809
+[12-Sep-2017 09:52:20 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cXMLDocument has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 397
+[12-Sep-2017 09:52:20 GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; cTimer has a deprecated constructor in /home/arenaegypt/public_html/testbed/tawselanew/admin&taw/ewshared10.php on line 820

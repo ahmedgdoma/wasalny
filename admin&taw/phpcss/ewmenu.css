@@ -1,0 +1,16 @@
+/* Overwrite navbar style */
+.ewMenu .navbar-inner {
+    border-radius: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.ewMenu .navbar {
+    margin-bottom: 0;
+}
+.ewMenu .nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+    margin-top: 0;
+}
+.ewMenu li a {
+	text-decoration: none;
+}
